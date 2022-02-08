@@ -32,9 +32,11 @@
 ## Module 2 <a name="2"></a>
 
 ### Exercises
+1. Explain what is linear regresion
 1. Create Sample Dataset for Linear regression
     - With one variable output
     - With two or more variable output
+3. Divide data set on train and test
 2. Define Mean Squared Error function
 3. Implement linear regression by hand using
     - Normal equation
