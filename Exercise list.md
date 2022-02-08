@@ -32,16 +32,20 @@
 ## Module 2 <a name="2"></a>
 
 ### Exercises
-1. Define Mean Squared Error function
-2. Implement linear regression by hand using
+1. Create Sample Dataset for Linear regression
+    - With one variable output
+    - With two or more variable output
+2. Define Mean Squared Error function
+3. Implement linear regression by hand using
     - Normal equation
     - Gradient descent 
-3. Visualize the work of algorithm
-4. Define linear regression with nn module and SGD optimizer
-5. Train linear regression from previous exercise on Boston Housing Price Dataset
-6. Define 3 regression metrics by hand and evaluate the model
-7. Visualize learning process
-8. Save pytorch model
+4. Visualize the work of algorithm
+5. Define linear regression with nn module and SGD optimizer
+6. Train linear regression from previous exercise on Boston Housing Price Dataset
+7. Define 3 regression metrics by hand and evaluate the model
+8. Visualize learning process
+9. Save pytorch model
+10. Deploy model
 
 ### Literature
 1. [Pytorch Linear Regression](https://jovian.ai/aakashns/02-linear-regression) - Main notebook on which tutorial was based.
